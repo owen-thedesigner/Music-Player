@@ -2,55 +2,55 @@
 let All_song = [
    {
      name: "Up To Sky",
-     path: "music/1.mp3",
+     path: "1.mp3",
      img: "images/1.jpg",
      singer: "BoDleasons"
    },
    {
      name: "Beautiful women",
-     path: "music/2.mp3",
+     path: "2.mp3",
      img: "images/2.jpg",
      singer: "Kamoflowz"
    },
    {
      name: "Future Bass",
-     path: "music/3.mp3",
+     path: "3.mp3",
      img: "images/3.jpg",
      singer: "Lowtone Music"
    },
    {
      name: "It is Spring",
-     path: "music/4.mp3",
+     path: "4.mp3",
      img: "images/4.jpg",
      singer: "Lowtone Music"
    },
    {
      name: "blip blop",
-     path: "music/5.mp3",
+     path: "5.mp3",
      img: "images/5.jpg",
      singer: "lamento del solipsista"
    },
    {
     name: "Your Motivation",
-    path: "music/6.mp3",
+    path: "6.mp3",
     img: "images/1.jpg",
     singer: "Lowtone Music"
    },
    {
     name: "Way Home",
-    path: "music/Way-Home.mp3",
+    path: "Way-Home.mp3",
     img: "images/6.png",
     singer: "Tokyo Music Walker"
    },
    {
     name: "The Epic Hero",
-    path: "music/7.mp3",
+    path: "7.mp3",
     img: "images/7.jpg",
     singer: "Keys Of Moon"
    },
    {
     name: "Infinity",
-    path: "music/8.mp3",
+    path: "8.mp3",
     img: "images/8.jpg",
     singer: "LEMMiNO"
    },
