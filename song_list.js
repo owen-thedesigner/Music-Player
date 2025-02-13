@@ -56,7 +56,7 @@ let All_song = [
    },
    {
     name: "Flying High",
-    path: "music/9.mp3",
+    path: "9.mp3",
     img: "images/9.jpg",
     singer: "Fredji"
    },
